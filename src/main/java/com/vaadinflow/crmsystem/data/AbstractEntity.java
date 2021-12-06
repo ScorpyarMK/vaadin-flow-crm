@@ -1,4 +1,4 @@
-package com.example.application.data;
+package com.vaadinflow.crmsystem.data;
 
 import com.vaadin.fusion.Nonnull;
 import javax.persistence.GeneratedValue;

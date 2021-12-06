@@ -1,6 +1,6 @@
-package com.example.application.data.entity;
+package com.vaadinflow.crmsystem.data.entity;
 
-import com.example.application.data.AbstractEntity;
+import com.vaadinflow.crmsystem.data.AbstractEntity;
 import org.hibernate.annotations.Formula;
 
 import java.util.LinkedList;

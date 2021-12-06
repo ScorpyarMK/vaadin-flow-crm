@@ -1,6 +1,6 @@
-package com.example.application.data.repository;
+package com.vaadinflow.crmsystem.data.repository;
 
-import com.example.application.data.entity.Contact;
+import com.vaadinflow.crmsystem.data.entity.Contact;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

@@ -1,6 +1,6 @@
-package com.example.application.views;
+package com.vaadinflow.crmsystem.views;
 
-import com.example.application.data.service.CrmService;
+import com.vaadinflow.crmsystem.data.service.CrmService;
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.charts.Chart;
 import com.vaadin.flow.component.charts.model.ChartType;

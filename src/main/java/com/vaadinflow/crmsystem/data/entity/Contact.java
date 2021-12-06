@@ -1,6 +1,6 @@
-package com.example.application.data.entity;
+package com.vaadinflow.crmsystem.data.entity;
 
-import com.example.application.data.AbstractEntity;
+import com.vaadinflow.crmsystem.data.AbstractEntity;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import javax.persistence.Entity;
 import javax.persistence.JoinColumn;

@@ -1,8 +1,8 @@
-package com.example.application.views.list;
+package com.vaadinflow.crmsystem.views.list;
 
-import com.example.application.data.entity.Company;
-import com.example.application.data.entity.Contact;
-import com.example.application.data.entity.Status;
+import com.vaadinflow.crmsystem.data.entity.Company;
+import com.vaadinflow.crmsystem.data.entity.Contact;
+import com.vaadinflow.crmsystem.data.entity.Status;
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.ComponentEvent;
 import com.vaadin.flow.component.ComponentEventListener;
